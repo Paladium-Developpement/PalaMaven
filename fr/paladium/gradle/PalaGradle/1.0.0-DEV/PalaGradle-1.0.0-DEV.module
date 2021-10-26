@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.paladium.gradle",
+    "module": "PalaGradle",
+    "version": "1.0.0-DEV",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "7uymqnsdrndhzij56yuwjanfyi"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "PalaGradle-1.0.0-DEV.jar",
+          "url": "PalaGradle-1.0.0-DEV.jar",
+          "size": 14234,
+          "sha512": "a5a61f16243632be797d97816f3ad150ac63845d22131731a59907b47883562bf1d4e71c3ff39d20e95c4307b7e1a99ae4d482c0dae7e5f66fc3f9d1e96e961c",
+          "sha256": "1ff171d45c586aa8c7c7b4597d1716af6e5f658ff2bb88de001f49f131667e7c",
+          "sha1": "35be2542c7f42eb51fb4695da49197c235af0fab",
+          "md5": "e8028fa0ecb885c5a46069c7738fd71f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "PalaGradle-1.0.0-DEV.jar",
+          "url": "PalaGradle-1.0.0-DEV.jar",
+          "size": 14234,
+          "sha512": "a5a61f16243632be797d97816f3ad150ac63845d22131731a59907b47883562bf1d4e71c3ff39d20e95c4307b7e1a99ae4d482c0dae7e5f66fc3f9d1e96e961c",
+          "sha256": "1ff171d45c586aa8c7c7b4597d1716af6e5f658ff2bb88de001f49f131667e7c",
+          "sha1": "35be2542c7f42eb51fb4695da49197c235af0fab",
+          "md5": "e8028fa0ecb885c5a46069c7738fd71f"
+        }
+      ]
+    }
+  ]
+}
