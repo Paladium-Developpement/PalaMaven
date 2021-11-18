@@ -450,9 +450,7 @@
             "${user_type}"
         ],
         "jvm": [
-            "-Djava.library.path=${natives_directory}",
-            "-cp",
-            "${classpath}"
+            "-Djava.library.path=${natives_directory}"
         ]
     },
     "type": "release"
