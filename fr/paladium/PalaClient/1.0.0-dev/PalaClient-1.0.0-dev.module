@@ -1,0 +1,294 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "fr.paladium",
+    "module": "PalaClient",
+    "version": "1.0.0-dev",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.1",
+      "buildId": "usqakbm3inc7ddvaade4bce36q"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "PalaClient-1.0.0-dev.jar",
+          "url": "PalaClient-1.0.0-dev.jar",
+          "size": 8046526,
+          "sha512": "d48e15a63761ec91b5ebc04dc0b01c11d5bae6246bc1a142a8b536225408f335d5b63e40adb8b53c2faf83ae5ee5e74cc49e3498e1147eafa25a2d6146442896",
+          "sha256": "243a42b2878d93d4997ba6142891ccc0e8ba827ec47fdab2f16c3f2a7a158d48",
+          "sha1": "589ae1bee4640d16f98f4ec389dcaad66bf9db18",
+          "md5": "ce4a901a439a58bf4d52705c05b0c642"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.minecraft",
+          "module": "launchwrapper",
+          "version": {
+            "requires": "1.12"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "1.3.9"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-debug-all",
+          "version": {
+            "requires": "5.0.3"
+          }
+        },
+        {
+          "group": "com.typesafe.akka",
+          "module": "akka-actor_2.11",
+          "version": {
+            "requires": "2.3.3"
+          }
+        },
+        {
+          "group": "com.typesafe",
+          "module": "config",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
+          "group": "net.sf.jopt-simple",
+          "module": "jopt-simple",
+          "version": {
+            "requires": "4.5"
+          }
+        },
+        {
+          "group": "lzma",
+          "module": "lzma",
+          "version": {
+            "requires": "0.0.1"
+          }
+        },
+        {
+          "group": "com.mojang",
+          "module": "realms",
+          "version": {
+            "requires": "1.3.5"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-compress",
+          "version": {
+            "requires": "1.8.1"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpclient",
+          "version": {
+            "requires": "4.3.3"
+          }
+        },
+        {
+          "group": "commons-logging",
+          "module": "commons-logging",
+          "version": {
+            "requires": "1.1.3"
+          }
+        },
+        {
+          "group": "org.apache.httpcomponents",
+          "module": "httpcore",
+          "version": {
+            "requires": "4.3.2"
+          }
+        },
+        {
+          "group": "java3d",
+          "module": "vecmath",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "net.sf.trove4j",
+          "module": "trove4j",
+          "version": {
+            "requires": "3.0.3"
+          }
+        },
+        {
+          "group": "com.ibm.icu",
+          "module": "icu4j-core-mojang",
+          "version": {
+            "requires": "51.2"
+          }
+        },
+        {
+          "group": "com.paulscode",
+          "module": "codecjorbis",
+          "version": {
+            "requires": "20101023"
+          }
+        },
+        {
+          "group": "com.paulscode",
+          "module": "codecwav",
+          "version": {
+            "requires": "20101023"
+          }
+        },
+        {
+          "group": "com.paulscode",
+          "module": "libraryjavasound",
+          "version": {
+            "requires": "20101123"
+          }
+        },
+        {
+          "group": "com.paulscode",
+          "module": "librarylwjglopenal",
+          "version": {
+            "requires": "20100824"
+          }
+        },
+        {
+          "group": "com.paulscode",
+          "module": "soundsystem",
+          "version": {
+            "requires": "20120107"
+          }
+        },
+        {
+          "group": "io.netty",
+          "module": "netty-all",
+          "version": {
+            "requires": "4.0.10.Final"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "17.0"
+          }
+        },
+        {
+          "group": "org.apache.commons",
+          "module": "commons-lang3",
+          "version": {
+            "requires": "3.3.2"
+          }
+        },
+        {
+          "group": "commons-io",
+          "module": "commons-io",
+          "version": {
+            "requires": "2.4"
+          }
+        },
+        {
+          "group": "commons-codec",
+          "module": "commons-codec",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "net.java.jinput",
+          "module": "jinput",
+          "version": {
+            "requires": "2.0.5"
+          }
+        },
+        {
+          "group": "net.java.jutils",
+          "module": "jutils",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.2.4"
+          }
+        },
+        {
+          "group": "com.mojang",
+          "module": "authlib",
+          "version": {
+            "requires": "1.5.16"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-api",
+          "version": {
+            "requires": "2.0-beta9"
+          }
+        },
+        {
+          "group": "org.apache.logging.log4j",
+          "module": "log4j-core",
+          "version": {
+            "requires": "2.0-beta9"
+          }
+        },
+        {
+          "group": "org.lwjgl.lwjgl",
+          "module": "lwjgl",
+          "version": {
+            "requires": "2.9.1"
+          }
+        },
+        {
+          "group": "org.lwjgl.lwjgl",
+          "module": "lwjgl_util",
+          "version": {
+            "requires": "2.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "PalaClient-1.0.0-dev.jar",
+          "url": "PalaClient-1.0.0-dev.jar",
+          "size": 8046526,
+          "sha512": "d48e15a63761ec91b5ebc04dc0b01c11d5bae6246bc1a142a8b536225408f335d5b63e40adb8b53c2faf83ae5ee5e74cc49e3498e1147eafa25a2d6146442896",
+          "sha256": "243a42b2878d93d4997ba6142891ccc0e8ba827ec47fdab2f16c3f2a7a158d48",
+          "sha1": "589ae1bee4640d16f98f4ec389dcaad66bf9db18",
+          "md5": "ce4a901a439a58bf4d52705c05b0c642"
+        }
+      ]
+    }
+  ]
+}
