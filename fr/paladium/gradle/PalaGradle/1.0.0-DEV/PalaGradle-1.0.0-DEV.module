@@ -27,11 +27,11 @@
         {
           "name": "PalaGradle-1.0.0-DEV.jar",
           "url": "PalaGradle-1.0.0-DEV.jar",
-          "size": 64144,
-          "sha512": "00e2a094fcf7aba10b3e625659f30d1926aec944d2582a301f8ab0889b498d4337e699da1147d63aa2c76c91a7c44891d2701a4be3979b52693116738d010fd1",
-          "sha256": "7b2a628d8ba0465747a61f5ab6e2ede81874298ac3025b25bf5ff866bf01321a",
-          "sha1": "940bac93fa64d8f826c65fe7648e4cb9636541a9",
-          "md5": "4f605269fda3dfbe58056f4163aaa9e4"
+          "size": 64207,
+          "sha512": "28028cb7a76d3c98956598d8066cbeb2b37cbf365d7f476069ed6415fcd2fec52e420b9ebbcec06b0dc0e9d814ac77c2a0768d73a5a4b928db27643f33d921f2",
+          "sha256": "69a829bcabcadaf68bef4897f552cc0d2a8aa1e2732a6144b848c305c9489cf1",
+          "sha1": "fdfd00c2a6dfb3368ecbebd93afed591ccc309f0",
+          "md5": "996420bbd4f81f16b148f6dd6ab7f682"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "PalaGradle-1.0.0-DEV.jar",
           "url": "PalaGradle-1.0.0-DEV.jar",
-          "size": 64144,
-          "sha512": "00e2a094fcf7aba10b3e625659f30d1926aec944d2582a301f8ab0889b498d4337e699da1147d63aa2c76c91a7c44891d2701a4be3979b52693116738d010fd1",
-          "sha256": "7b2a628d8ba0465747a61f5ab6e2ede81874298ac3025b25bf5ff866bf01321a",
-          "sha1": "940bac93fa64d8f826c65fe7648e4cb9636541a9",
-          "md5": "4f605269fda3dfbe58056f4163aaa9e4"
+          "size": 64207,
+          "sha512": "28028cb7a76d3c98956598d8066cbeb2b37cbf365d7f476069ed6415fcd2fec52e420b9ebbcec06b0dc0e9d814ac77c2a0768d73a5a4b928db27643f33d921f2",
+          "sha256": "69a829bcabcadaf68bef4897f552cc0d2a8aa1e2732a6144b848c305c9489cf1",
+          "sha1": "fdfd00c2a6dfb3368ecbebd93afed591ccc309f0",
+          "md5": "996420bbd4f81f16b148f6dd6ab7f682"
         }
       ]
     }
